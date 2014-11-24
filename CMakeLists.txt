@@ -99,7 +99,6 @@ INCLUDE_DIRECTORIES (
 	direct 
 	cdirect 
 	praxis 
-	luksan 
 	crs 
 	mlsl 
 	mma 
@@ -126,7 +125,6 @@ SET ( NLOPT_SOURCES
 	direct/DIRect.c direct/direct_wrap.c direct/DIRserial.c direct/DIRsubrout.c direct/direct-internal.h direct/direct.h
 	cdirect/cdirect.c cdirect/hybrid.c cdirect/cdirect.h
 	praxis/praxis.c praxis/praxis.h
-	luksan/plis.c luksan/plip.c luksan/pnet.c luksan/mssubs.c luksan/pssubs.c luksan/luksan.h
 	crs/crs.c crs/crs.h
 	mlsl/mlsl.c mlsl/mlsl.h
 	mma/mma.c mma/mma.h mma/ccsa_quadratic.c

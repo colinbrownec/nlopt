@@ -418,7 +418,6 @@ AC_CONFIG_FILES([
    cdirect/Makefile
    stogo/Makefile
    praxis/Makefile
-   luksan/Makefile
    crs/Makefile
    mlsl/Makefile
    mma/Makefile
